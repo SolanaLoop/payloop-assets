@@ -1,0 +1,29 @@
+{
+    "name": "LOOP",
+    "symbol": "LOOP",
+    "description": "LOOP is the native utility token powering PayLoop, a next-generation payment processing platform built on Solana. Combining near-zero fees, instant settlement, and innovative tokenomics, LOOP revolutionizes traditional payment processing with up to 50% fee reductions, 12% base staking APY, and sustainable deflationary mechanics.",
+    "image": "https://assets.payloop.io/looplogo.png",
+    "external_url": "https://payloop.io",
+    "attributes": [
+        {
+            "trait_type": "Total Supply",
+            "value": "100,000,000"
+        },
+        {
+            "trait_type": "Decimals",
+            "value": 6
+        },
+        {
+            "trait_type": "Base Staking APY",
+            "value": "12%"
+        },
+        {
+            "trait_type": "Max Fee Reduction",
+            "value": "50%"
+        }
+    ],
+    "links": {
+        "twitter": "https://x.com/payloop_io",
+        "github": "https://github.com/SolanaLoop"
+    }
+}
